@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "React",
+    "description": "React is a JavaScript library for building user interfaces"
+  },
+  {
+    "id": 2,
+    "title": "Angular",
+    "description": "Angular is a TypeScript-based open-source web application framework"
+  },
+  {
+    "id": 3,
+    "title": "Vue",
+    "description": "Vue (pronounced /vjuː/, like view) is an open-source JavaScript framework for building user interfaces"
+  },
+  {
+    "id": 4,
+    "title": "Ember",
+    "description": "Ember.js is an open-source JavaScript web application framework"
+  },
+  {
+    "id": 5,
+    "title": "Backbone",
+    "description": "Backbone.js is an open-source JavaScript framework"
+  }
+]

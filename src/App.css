@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: column; /*Arrange items in a column*/
+  align-items: center; /* Center items horizontally */
+  justify-content: center; /* Center items vertically */
+  width: 50%; /* Full width of the viewport */
+}
+.acc-container {
+  background-color: #97fcb2; 
+  font-size:20px;
+  color: black;
+  padding: 20px;
+  margin: 5px 0; /* Adjusts margin to have space between items */
+  border: 1px solid white; /* Adds a border to separate items */
+}
+.acc-title{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bolder;
+}
+
+.btn{
+  border: none;
+  background-color: transparent;
+  font-size: 30px;
+}
+
+.acc-content{
+  max-height:0;
+  overflow: hidden;
+}
+
+.active{
+  max-height: 100px;
+  overflow: none;
+}
